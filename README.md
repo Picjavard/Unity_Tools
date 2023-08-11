@@ -1,7 +1,7 @@
 # Unity_Tools
 Useful tools, assets, scripts, prefabs etc. for Unity
 
-Горячие клавиши
+[Горячие клавиши](/Hotkeys)
 
 
 ## List of tools
