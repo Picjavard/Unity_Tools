@@ -23,33 +23,33 @@
 
 ### Шаг 3
 
-Создайте пустой `C# Script` с названием `Tag_Weapon` по пути `Assets/Scripts`. Скрипт пригодится для пометки предметов, на которые среагирует монстр (палка, меч, камень и т.п.).
+Создайте пустой `C# Script` или используйте уже имеющийся скрипт с названием `Tag_Weapon` по пути `Assets/_Arlycad/ZoneTrigger/Tags`. Скрипт пригодится для пометки предметов, на которые среагирует монстр (палка, меч, камень и т.п.).
 
-![Screenshot_46](https://github.com/user-attachments/assets/c192cbdf-4696-4fed-94a5-cf94eedb6a3a)
+![image](https://github.com/user-attachments/assets/8477a756-d461-4c9d-87d4-b5d7699ad483)
 
 Перенесите его на интерактивный объект, а точнее на ту часть, у которой имеется коллайдер.
 
-![Screenshot_47](https://github.com/user-attachments/assets/b73ca0d3-46b0-4a06-9dc1-49e4fab8b0b9)
+![image](https://github.com/user-attachments/assets/5719e005-6fc1-4be6-ad0f-403b395d291d)
 
 ### Шаг 4
 
-Добавьте на монстра скрипт `ZoneTrigger.cs` (Находится в `Assets/Scripts/`)
+Добавьте на монстра скрипт `ZoneTrigger.cs` (Находится в `Assets/_Arlycad/ZoneTrigger/`)
 
-![Screenshot_48](https://github.com/user-attachments/assets/444516e0-21c5-44e7-968a-5cd8950be4ce)
+![image](https://github.com/user-attachments/assets/8c4b46c4-a3b7-400a-8787-c4f4393b3a7c)
 
-Укажите скрипт, на который зона должна среагировать, нажав на кнопку у этого скрипта `Add Component` и выбрав в выпадающем списке скрипт `Tag_Weapon`.
+Укажите скрипт, на который зона должна среагировать, нажав на кнопку у этого скрипта `Add Tag` и выбрав в выпадающем списке скрипт `Tag_Weapon`.
 
-![Screenshot_49](https://github.com/user-attachments/assets/17af545f-d5d1-4f22-8a68-5ece89053a18)
+![image](https://github.com/user-attachments/assets/912e7e75-8369-4d90-894a-97cf581ec4cb)
 
 ### Шаг 5
 
 Настройте событие, которое должно произойти при входе и/или выходе из зоны предмета(палки) в событиях `On Enter` и `On Exit`
 
-![Screenshot_50](https://github.com/user-attachments/assets/01da93cb-0a9e-4665-a15b-7de34427af99)
+![image](https://github.com/user-attachments/assets/0025c6ce-739f-4fb7-b675-fafa561a1215)
 
-Например, перетащите объект монстра в `None (Object)` и укажите ему функцию исчезновения `No Functio -> GameObject -> SetActive (bool)`. Галочка должна быть снята, чтобы объект исчез.
+Например, перетащите объект монстра в `None (Object)` и укажите ему функцию исчезновения `No Function -> GameObject -> SetActive (bool)`. Галочка должна быть снята, чтобы объект исчез.
 
-![Screenshot_51](https://github.com/user-attachments/assets/40e3688a-4224-4666-b961-da224d53b0de)
+![image](https://github.com/user-attachments/assets/a211702e-a624-46b0-9214-7e32bcb261f5)
 
 ### Готово
 
