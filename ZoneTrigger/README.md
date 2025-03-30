@@ -1,10 +1,10 @@
 # ZoneTrigger
 
-![image](https://github.com/user-attachments/assets/c95ce1d9-1fcb-4588-8553-741264592e7d)
+![image](https://github.com/user-attachments/assets/cdabb3e4-0ebc-4ccd-aa24-538dea337956)
 
 ## Пример 
 
-![image](https://github.com/user-attachments/assets/629cc099-4a09-453a-9b07-59581efbb00e)
+![image](https://github.com/user-attachments/assets/9dbc30c2-1991-48dd-a061-a0c30e2b1d72)
 
 ## Как использовать?
 
