@@ -8,6 +8,12 @@
 ![gif](img/1.gif)
 ![gif](img/2.gif)
 
+## Зависимости
+
+>[!CAUTION]
+> Спавнер использует скрипт спавнера из [CountdownTimer](../CountdownTimer)
+> Необходимо дополнительно скачать CountdownTimer.unitypackage и импортировать в проект
+
 ## Как использовать?
 
 1. Скачайте и импортируйте `SpawnerObjects.unitypackage`
