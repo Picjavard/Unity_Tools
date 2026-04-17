@@ -11,8 +11,9 @@
 ## Зависимости
 
 >[!CAUTION]
-> Спавнер использует скрипт спавнера из [CountdownTimer](../CountdownTimer)
-> Необходимо дополнительно скачать CountdownTimer.unitypackage и импортировать в проект
+> Спавнер использует скрипт спавнера из [CountdownTimer](../CountdownTimer).
+>
+> Необходимо дополнительно скачать CountdownTimer.unitypackage и импортировать в проект.
 
 ## Как использовать?
 
