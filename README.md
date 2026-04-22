@@ -11,3 +11,4 @@ Useful tools, assets, scripts, prefabs etc. for Unity
 3. Zone Trigger (универсальный скрипт для триггерной зоны, триггер на другой скрипт у другого объекта) - ([my unitypackage](/ZoneTrigger))
 4. Skybox Cool Shader (крутой шейдер для скайбокса звездного неба). - ([my unitypackage](/Skybox%20Cool%20Shader)) - автор: [gitlab](https://gitlab.com/janmroz97/stars-skybox-shader/-/tree/master?ref_type=heads)
 5. Spawner Objects (спавнер объектов с настройками ускорения, рандомами, визуалом) - ([my unitypackage](SpawnerObjects))
+6. Unity Events Debug Panel (скрипт кастомного инспектора, позоляющий быстро настроить и вызывать UnityEvents у объектов по нажатию кнопки) - ([my unitypackage](Unity%20Events%20Debug%20Panel))
