@@ -7,7 +7,7 @@
 1. **Создайте новую сцену:**  
    - *File → New Scene → 3D* → Сохраните как `CoinLevel` в папку `Scenes`.  
 2. **Импортируйте префабы:**  
-   - Скачайте unitypackage от учителя (файл `https://github.com/Picjavard/VRPlayerPackage/blob/main/Prefabs/Prafabs%20for%20blockout.unitypackage`).  
+   - Скачайте unitypackage от учителя ([Ссылка на файл](Prefabs%20for%20blockout)).  
    - Испортируйте файл в Unity.  
    - В открывшемся окне нажмите **Import** (все галочки должны быть активны).  
 
