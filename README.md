@@ -14,4 +14,4 @@ Useful tools, assets, scripts, prefabs etc. for Unity
 
 ## Prefabs
 
-[Blockout for masterclass](Blockout_for_masterclass)
+[Blockout for masterclass](Blockout%20for%20masterclass)
